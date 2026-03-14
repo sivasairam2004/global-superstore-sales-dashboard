@@ -23,6 +23,7 @@ The dashboard provides interactive visualizations to help businesses make **data
 
 * **Tableau** – Data visualization and dashboard creation
 * **Microsoft Excel** – Data storage and preprocessing
+* **Python** – Data exploration and preprocessing using scripts  
 * **GitHub** – Project documentation and version control
 
 ---
@@ -71,10 +72,11 @@ The dataset used in this project is the **Global Superstore Dataset**, which con
 
 ## 📁 Project Files
 
-* `Global_Superstore_Dashboard.twbx` – Tableau dashboard file
-* `SuperStoreOrders.csv.xlsx` – Dataset used for analysis
-* 'sales_analysis.py'– Python script used for data exploration and preprocessing
+- [Global_Superstore_Dashboard.twbx](Global_superstore_dashboard.twbx) – Tableau dashboard file  
 
+- [SuperStoreOrders.csv.xlsx](SuperStoreOrders.csv.xlsx) – Dataset used for analysis  
+
+- [sales_analysis.py](analysis.py) – Python script used for data exploration and preprocessing
 ---
 
 ## 👨‍💻 Author
