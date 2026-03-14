@@ -68,7 +68,7 @@ The dataset used in this project is the **Global Superstore Dataset**, which con
 ## 📸 Dashboard Preview
 
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]([dashboard.png](https://github.com/sivasairam2004/global-superstore-sales-dashboard/blob/main/Global_superstore_dashboard.png))
 
 ---
 
